@@ -1,0 +1,10 @@
+# Data Analysis Agent Requirements
+# Python 3.8+
+
+langchain==0.1.0
+openai==1.6.1
+pandas==2.0.0
+matplotlib==3.7.1
+seaborn==0.12.2
+tiktoken==0.5.2
+python-dotenv==1.0.0

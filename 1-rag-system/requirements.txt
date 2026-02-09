@@ -1,0 +1,17 @@
+# RAG System Requirements
+# Python 3.8+
+
+# Core dependencies
+langchain==0.1.0
+openai==1.6.1
+faiss-cpu==1.7.4
+pypdf==3.17.4
+
+# Embeddings and LLM
+tiktoken==0.5.2
+
+# Utilities
+python-dotenv==1.0.0
+
+# Optional: for better PDF handling
+pdfplumber==0.10.3
